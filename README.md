@@ -1,5 +1,5 @@
 # sqlzoo-answers
-Solutions for sqlzoo.com from levels 1-10 (minus 9+ COVID-19 level)
+Solutions for [sqlzoo.com](https://sqlzoo.net/wiki/SQL_Tutorial) from levels 1-10 (minus 9+ COVID-19 level)
 
 # Table of Contents
 0 - [SELECT basics](#select-basics)
