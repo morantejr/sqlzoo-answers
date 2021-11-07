@@ -207,7 +207,7 @@ SELECT name
  WHERE capital = concat(name, ' City');
 ```
 
-13.
+13. 
 ```sql
 SELECT capital, name
   FROM world
